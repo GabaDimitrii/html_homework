@@ -1,0 +1,34 @@
+/* Цвета текста */
+.text-red {
+    color: red;
+}
+
+.text-green {
+    color: green;
+}
+
+/* Начертание */
+.text-italic {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+/* Цвета элементов списка */
+.list-colors li {
+    margin-bottom: 0.3rem;
+}
+
+.color-green {
+    color: green;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-blue {
+    color: blue;
+}

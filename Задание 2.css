@@ -1,0 +1,59 @@
+/* Красный текст */
+.text-red {
+    color: red;
+}
+
+/* Полужирный текст */
+.text-bold {
+    font-weight: bold;
+}
+
+/* Разные цвета для элементов списка */
+.list-colors li {
+    margin-bottom: 0.3rem;
+}
+
+.color-green {
+    color: green;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-red-alt {
+    color: darkred; /* другой оттенок красного, чтобы цвета различались */
+}
+
+.color-blue {
+    color: blue;
+}
+
+/* Размеры текста */
+.size-xxsmall {
+    font-size: xx-small;
+}
+
+.size-xsmall {
+    font-size: x-small;
+}
+
+.size-small {
+    font-size: small;
+}
+
+.size-medium {
+    font-size: medium;
+}
+
+.size-large {
+    font-size: large;
+}
+
+.size-xlarge {
+    font-size: x-large;
+}
+
+.size-xxlarge {
+    font-size: xx-large;
+}
